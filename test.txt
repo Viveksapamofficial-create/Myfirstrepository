@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+Hello world!
+=======
 Hello World!
 This is my change.
+>>>>>>> 552f2e5fc59f878835dc1c2ac9135623d552b7c6
